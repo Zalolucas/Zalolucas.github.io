@@ -1,0 +1,27 @@
+
+.ja{
+    background-color: rgb(42, 42, 42);	/* bakrunnfarge*/
+    border: 2px solid black;	/*Social siden med ramme runt, og tykkelse på ramme */
+    border-radius:50%;
+    padding: 2px;
+    font-size: 120%;
+    text-align: center;
+    color: white;	/*Farge for inne i picture*/
+    
+    }
+
+
+.navbar_button a {
+    border: 3px solid white;
+    border-radius: 20px;
+    color: black;
+    background-color: white;
+    padding: 10px;
+}
+.navbar_button a:hover {
+    border: 3px solid black;
+    border-radius: 20px;
+    color: red;
+    background-color: grey;
+}
+

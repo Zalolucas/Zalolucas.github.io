@@ -1,0 +1,31 @@
+body{
+	background-image: url(https://www.fjordtours.com/media/11085/ragsyno-instagram-29th-jan-2020-1523-utc.jpeg?anchor=center&mode=crop&width=1120&height=1120&rnd=133210268150000000&slimmage=True);
+	background-size:1920px 1080px;
+	background-repeat: no-repeat; 
+}
+
+.upper{
+    background-color: rgb(216, 201, 201);	/* bakrunnfarge*/
+	border: 2px solid black;	/*Social siden med ramme runt, og tykkelse på ramme */
+	border-radius:12px0;
+	padding: 2px;
+	font-size: 120%;
+	text-align: center;
+	color: white;	/*Farge for inne i picture*/
+}
+
+.navbar_button a {
+    border: 3px solid rgb(255, 255, 255);
+    border-radius: 20px;
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+    padding: 10px;
+	text-align: center;
+}
+.navbar_button a:hover {
+    border: 3px solid black;
+    border-radius: 20px;
+    color: black;
+    background-color: grey;
+
+	}
